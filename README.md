@@ -68,4 +68,5 @@ tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt
 
 ### Files
 
-- [data]()
+- [data.txt](./data.txt)
+- [result.txt](./result.txt)

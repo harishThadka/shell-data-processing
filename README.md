@@ -28,7 +28,41 @@ dir
 ### Powershell Cheat sheet:
 ![Powrshell Cheat sheet](./powershellCheatSheet.PNG)
 
-### Curl command:
+### Basic GitBash Commands:
+
+- Clone the cloud repo into local machine
+```
+git clone [repository url]
+```
+- To initialize a new repository
+```
+git init [repository name]
+```
+- To add files into repository
+```
+git add .
+```
+- To commit files into repository
+```
+git commit -m [mention useful message]
+```
+- To add origin to repository
+```
+git remote add [repository url]
+```
+- To push into repository
+```
+git push origin [branch name]
+```
+- To pull from repository
+```
+git pull origin [branch name]
+```
+#### References:
+- [https://github.com/denisecase/basic-git](https://github.com/denisecase/basic-git)
+
+
+### Command used to get data from a web page with example
 - Work in the project folder you created above.
 - Find an interesting web page (for example http://shakespeare.mit.edu/romeo_juliet/full.html (Links to an external site.)).
 - Copy the URL to your clipboard. Hint: In windows, CTRL C.

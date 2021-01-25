@@ -26,7 +26,7 @@ cd..
 dir
 ```
 ### Powershell Cheat sheet:
-![Powrshell Cheat sheet](./powershellCheatSheet.png)
+![Powrshell Cheat sheet](./powershellCheatSheet.PNG)
 
 ### Curl command:
 - Work in the project folder you created above.

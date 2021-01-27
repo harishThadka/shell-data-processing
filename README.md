@@ -99,6 +99,9 @@ Redirect the output to result.txt
 ```
 tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt
 ```
+#### References:
+- https://se.ifmo.ru/~ad/Documentation/Shells_by_Example/ch04lev1sec1.html
+- https://github.com/denisecase/shell-data-processing
 
 ### Files
 
